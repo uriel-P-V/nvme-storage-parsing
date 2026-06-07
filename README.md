@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nvme-storage-parsing
 
 Parsing library for NVMe SMART and health logs, built as preparation for IBM Storage Test Developer interviews.
@@ -42,3 +43,6 @@ pytest --tb=short   # short traceback on failure
 | `parse_fleet` | Parse hex payloads across a fleet, return critical devices |
 | `get_replacement_list` | Return devices needing replacement, sorted by wear |
 | `get_attention_list` | Return devices needing attention, sorted by wear percentage |
+=======
+# nvme-storage-parsing
+>>>>>>> ab6f8f3775e7596a4480392362ab9a4dcd81865d
